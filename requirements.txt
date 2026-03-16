@@ -1,0 +1,2 @@
+SpeechRecognition
+PyAudio  # required for microphone input (Windows users may need to install from a wheel)
